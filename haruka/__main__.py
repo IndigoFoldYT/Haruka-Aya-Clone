@@ -20,9 +20,9 @@ from haruka.modules.helper_funcs.misc import paginate_modules
 from haruka.modules.translations.strings import tld, tld_help 
 from haruka.modules.connection import connected
 
-PM_START = """Hey there! My name is Rose - I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential.
+PM_START = """Rawr Halo!Aku Melva Yang Bisa Membantumu /help Untuk Mencari Tau apa Perintahku Mwahh.
 
-Want to add me to your chat? [Click here!](http://telegram.me/MissRoseRoBot?startgroup=botstart) 
+Want to add me to your chat? [Click here!](http://telegram.me/IniReLifeKok?startgroup=botstart) 
 """
 
 
